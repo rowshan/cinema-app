@@ -2,7 +2,8 @@
 *.rbc
 .env
 /.config
-/app/config/config.yml
+/app/config/development.config.yml
+/app/config/test.config.yml
 /coverage/
 /InstalledFiles
 /pkg/

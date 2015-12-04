@@ -9,3 +9,8 @@ gem "puma"
 gem "redis"
 gem "slim"
 gem "pry"
+
+group :test do
+  gem 'rspec'
+  gem 'cucumber'
+end
